@@ -1,5 +1,5 @@
 {
-  "name": "algoritms",
+  "name": "algorithms",
   "module": "index.ts",
   "type": "module",
   "private": true,
